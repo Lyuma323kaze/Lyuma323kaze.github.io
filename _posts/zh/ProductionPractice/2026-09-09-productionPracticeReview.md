@@ -44,15 +44,14 @@ description: 华大航院《生产实习》个人向测评
 <img src="{{'/assets/zh/ProductionPractice/comments.jpg' | relative_url}}"
     alt="comments"
     style="display:block; margin:0 auto; max-width:80%; height:auto;">
-![[../../../assets/zh/ProductionPractice/总评.jpg]]
+
 
 > 没有mentor并非不想，而是不能
 
 # 附录
-<img src="{{'/assets/zh/ProductionPractice/lunch.jpg' | relative_url}}"
+<img src="{{'/assets/zh/ProductionPractice/lunch.jpeg' | relative_url}}"
     alt="comments"
     style="display:block; margin:0 auto; max-width:80%; height:auto;">
-![[../../../assets/zh/ProductionPractice/午餐.jpeg]]
 
 > 公司提供的午餐
 

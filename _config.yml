@@ -29,7 +29,7 @@ github:
   username: Lyuma323kaze # change to your GitHub username
 
 twitter:
-  username: 風落ち # change to your Twitter username
+  username: Lyuma_kazeoto # change to your Twitter username
 
 social:
   # Change to your full name.
@@ -39,8 +39,8 @@ social:
   fediverse_handle: # fill in your fediverse handle. E.g. "@username@domain.com"
   links:
     # The first element serves as the copyright owner's link
-    - https://https://x.com/Lyuma_kazeoto # change to your Twitter homepage
     - https://github.com/Lyuma323kaze # change to your GitHub homepage
+    - https://x.com/Lyuma_kazeoto # change to your Twitter homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
