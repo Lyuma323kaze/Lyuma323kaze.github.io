@@ -5,6 +5,8 @@ categories: [Others]
 tags: [Production Practice]
 author: [Kaze Lyuma]
 
+published: false
+
 description: 华大航院《生产实习》个人向测评
 ---
 ## 写在前面
