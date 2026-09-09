@@ -14,6 +14,17 @@
 
 /* 自定义样式 */
 
+:root {
+  --glass-chrome-rgb: 238 238 240;
+  --glass-toc-rgb: 220 220 224;
+  --glass-chrome-opacity: 60%;
+}
+
+html[data-bs-theme='dark'] {
+  --glass-chrome-rgb: 27 27 30;
+  --glass-toc-rgb: 19 19 22;
+}
+
 body {
   background-image: url('{{ "/assets/img/Seele.jpeg" | relative_url }}');
   background-position: center;
@@ -24,11 +35,46 @@ body {
 
 /* 右侧正文区域 */
 #main-wrapper {
-  background-color: rgb(255 255 255 / 82%);
+  background-color: rgb(255 255 255 / 85%);
   backdrop-filter: blur(3px);
 }
 
 /* 深色模式 */
 html[data-bs-theme='dark'] #main-wrapper {
-  background-color: rgb(27 27 30 / 82%);
+  background-color: rgb(27 27 30 / 85%);
+}
+
+/* 顶栏与右栏共享灰色玻璃背景，文字保持完全不透明。 */
+#topbar-wrapper,
+#panel-wrapper {
+  background-color: rgb(var(--glass-chrome-rgb) / var(--glass-chrome-opacity));
+}
+
+/* 顶栏以 main-wrapper 为定位容器，覆盖正文容器两侧的留白。 */
+@media (min-width: 850px) {
+  #main-wrapper > .container {
+    padding-top: variables.$topbar-height;
+  }
+
+  #topbar-wrapper {
+    position: absolute;
+    inset: 0 0 auto;
+  }
+}
+
+/* 目录顶部保留较深的灰色渐变，移除底部的固定遮罩。 */
+#toc-wrapper::before,
+.toc-border-cover {
+  background: linear-gradient(
+    rgb(var(--glass-toc-rgb) / var(--glass-chrome-opacity)) 80%,
+    rgb(var(--glass-toc-rgb) / 0%)
+  );
+}
+
+#toc-wrapper::after {
+  content: none;
+}
+
+footer {
+  background-color: transparent;
 }
