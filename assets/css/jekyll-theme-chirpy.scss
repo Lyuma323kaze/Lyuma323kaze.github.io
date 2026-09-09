@@ -15,7 +15,7 @@
 /* 自定义样式 */
 
 body {
-  background-image: url('{{ "/assets/img_genr/Seele.jpeg" | relative_url }}');
+  background-image: url('{{ "/assets/img/Seele.jpeg" | relative_url }}');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
