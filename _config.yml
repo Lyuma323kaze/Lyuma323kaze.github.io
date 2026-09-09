@@ -99,11 +99,11 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "/assets/img_genr/komari.jpg"
+avatar: "/assets/img/komari.jpg"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
-social_preview_image: "/assets/img_genr/komari.jpg" # string, local or CORS resources
+social_preview_image: "/assets/img/komari.jpg" # string, local or CORS resources
 
 # boolean type, the global switch for TOC in posts.
 toc: true
