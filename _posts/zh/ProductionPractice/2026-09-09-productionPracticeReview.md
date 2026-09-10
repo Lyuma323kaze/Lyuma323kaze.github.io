@@ -3,7 +3,7 @@ title: "航院《生产实习》个人向测评"
 date: 2026-9-9 16:47:00 +0800
 categories: [Others]
 tags: [Production Practice]
-author: [Kaze Lyuma]
+author: Kaze Lyuma
 
 published: false
 

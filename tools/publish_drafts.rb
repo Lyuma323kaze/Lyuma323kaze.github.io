@@ -12,7 +12,8 @@ LANGUAGES = %w[zh en jp].freeze
 options = { dry_run: false }
 
 parser = OptionParser.new do |opts|
-  opts.banner = "Usage: #{File.basename($PROGRAM_NAME)} [zh|en|jp] [options]"
+  opts.banner = "Usage: #{File.basename($PROGRAM_NAME)} [draft.md] [zh|en|jp] [options]"
+  opts.separator "Select one file directly in _drafts/ and move it to _posts/<language>/."
   opts.on("-n", "--dry-run", "Show what would be moved without changing files") do
     options[:dry_run] = true
   end
@@ -23,9 +24,36 @@ parser = OptionParser.new do |opts|
 end
 
 parser.parse!
-abort parser.to_s if ARGV.length > 1
+abort parser.to_s if ARGV.length > 2
 
-language = ARGV.first
+site_root = File.expand_path("..", __dir__)
+draft_root = File.join(site_root, "_drafts")
+abort "No draft directory: #{draft_root}" unless Dir.exist?(draft_root)
+
+drafts = Dir.glob(File.join(draft_root, "*")).select do |path|
+  File.file?(path) && !File.symlink?(path) && %w[.md .markdown].include?(File.extname(path).downcase)
+end.sort
+abort "No Markdown drafts directly in #{draft_root}" if drafts.empty?
+
+draft_argument, language = ARGV
+if draft_argument
+  candidate = if File.basename(draft_argument) == draft_argument
+                File.join(draft_root, draft_argument)
+              else
+                File.expand_path(draft_argument)
+              end
+  source = drafts.find { |path| path == candidate }
+  abort "Draft must be a Markdown file directly in #{draft_root}: #{draft_argument}" unless source
+else
+  abort "Specify a draft filename as the first argument." unless $stdin.tty?
+  puts "Choose one draft:"
+  drafts.each_with_index { |path, index| puts "  #{index + 1}) #{File.basename(path)}" }
+  print "> "
+  answer = $stdin.gets&.strip
+  index = answer.to_i - 1 if answer&.match?(/\A[1-9]\d*\z/)
+  abort "Invalid draft selection." unless index && index < drafts.length
+  source = drafts[index]
+end
 
 if language.nil?
   unless $stdin.tty?
@@ -33,7 +61,7 @@ if language.nil?
     abort "Choose one language: #{LANGUAGES.join(', ')}"
   end
 
-  puts "Choose drafts to publish:"
+  puts "Choose destination language (_posts/<language>/):"
   LANGUAGES.each_with_index { |item, index| puts "  #{index + 1}) #{item}" }
   print "> "
 
@@ -50,25 +78,19 @@ unless LANGUAGES.include?(language)
   abort "Invalid language: #{language.inspect}"
 end
 
-site_root = File.expand_path("..", __dir__)
-draft_root = File.join(site_root, "_drafts", language)
 post_root = File.join(site_root, "_posts", language)
-
-unless Dir.exist?(draft_root)
-  puts "No draft directory: #{draft_root}"
-  exit
-end
 
 def front_matter(content)
   match = content.match(/\A---\s*\r?\n(.*?)\r?\n---\s*(?:\r?\n|\z)/m)
   return unless match
 
-  YAML.safe_load(
+  metadata = YAML.safe_load(
     match[1],
     permitted_classes: [Date, DateTime, Time],
     aliases: true
-  ) || {}
-rescue Psych::SyntaxError => e
+  )
+  metadata if metadata.is_a?(Hash)
+rescue Psych::Exception => e
   warn "  invalid YAML: #{e.message.lines.first.strip}"
   nil
 end
@@ -85,63 +107,23 @@ rescue ArgumentError
   nil
 end
 
-drafts = Dir.glob(File.join(draft_root, "*")).select do |path|
-  File.file?(path) && %w[.md .markdown].include?(File.extname(path).downcase)
-end.sort
+filename = File.basename(source)
+metadata = front_matter(File.read(source, encoding: "UTF-8"))
+abort "No valid YAML front matter: #{filename}" unless metadata
+abort "Draft has published: false: #{filename}" if metadata["published"] == false
 
-counts = Hash.new(0)
+publish_at = timestamp(metadata["date"])
+abort "date must contain a valid date and time: #{filename}" unless publish_at
 
-drafts.each do |source|
-  counts[:scanned] += 1
-  filename = File.basename(source)
-  metadata = front_matter(File.read(source, encoding: "UTF-8"))
+extension = File.extname(filename)
+basename = File.basename(filename, extension).sub(/\A\d{4}-\d{2}-\d{2}-/, "")
+post_name = "#{publish_at.strftime('%Y-%m-%d')}-#{basename}#{extension}"
+destination = File.join(post_root, post_name)
+abort "Destination already exists: #{destination}" if File.exist?(destination) || File.symlink?(destination)
 
-  unless metadata
-    puts "[skip: no valid front matter] #{filename}"
-    counts[:skipped] += 1
-    next
-  end
-
-  if metadata["published"] == false
-    puts "[skip: published is false] #{filename}"
-    counts[:skipped] += 1
-    next
-  end
-
-  publish_at = timestamp(metadata["date"])
-  unless publish_at
-    puts "[skip: date has no valid time] #{filename}"
-    counts[:skipped] += 1
-    next
-  end
-
-  extension = File.extname(filename)
-  basename = File.basename(filename, extension).sub(/\A\d{4}-\d{2}-\d{2}-/, "")
-  post_name = "#{publish_at.strftime('%Y-%m-%d')}-#{basename}#{extension}"
-  destination = File.join(post_root, post_name)
-
-  if File.exist?(destination)
-    puts "[conflict: destination exists] #{destination}"
-    counts[:conflicts] += 1
-    next
-  end
-
-  action = options[:dry_run] ? "would move" : "moved"
-  puts "[#{action}] #{source} -> #{destination}"
-
-  unless options[:dry_run]
-    FileUtils.mkdir_p(post_root)
-    FileUtils.mv(source, destination)
-  end
-
-  counts[:moved] += 1
+unless options[:dry_run]
+  FileUtils.mkdir_p(post_root)
+  FileUtils.mv(source, destination)
 end
 
-puts
-puts "Language: #{language}"
-puts "Scanned: #{counts[:scanned]}"
-puts "#{options[:dry_run] ? 'Eligible' : 'Moved'}: #{counts[:moved]}"
-puts "Skipped: #{counts[:skipped]}"
-puts "Conflicts: #{counts[:conflicts]}"
-
-exit 1 if counts[:conflicts].positive?
+puts "[#{options[:dry_run] ? 'would move' : 'moved'}] #{source} -> #{destination}"
