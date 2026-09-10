@@ -16,15 +16,20 @@ description:
 ## ～序章～
 
 第八卷的序章以图书室值班的文艺部两位部长，还有不知为何开始研究养生的老马开幕。
+
 <img src="{{'/assets/zh/makeine_vol8_close-reading/1.png' | relative_url}}"
     alt="1"
     style="display:block; margin:0 auto; max-width:80%; height:auto;">
+    
 <img src="{{'/assets/zh/makeine_vol8_close-reading/2.png' | relative_url}}"
     alt="2"
     style="display:block; margin:0 auto; max-width:80%; height:auto;">
+
 面对犹豫不决的温水，小鞠使用了迎头痛击！
+
 小鞠，你干得好啊.jpg
-不得不承认，初见第八卷我就被小鞠的这两下笑到了。相信每一个看过动画的粉丝都对第八集你八踢温水的那两下印象深刻(笑)经过五卷的成长，小鞠终于也是走到了这个位置（笑）
+
+不得不承认，初见第八卷我就被小鞠的这两下笑到了。相信每一个看过动画的粉丝都对第八集你八踢温水的那两下印象深刻（笑）。经过五卷的成长，小鞠终于也是走到了这个位置，我很欣慰。
 
 ## ～第一败～
 
@@ -37,14 +42,21 @@ description:
 <img src="{{'/assets/zh/makeine_vol8_close-reading/4.png' | relative_url}}"
     alt="4"
     style="display:block; margin:0 auto; max-width:80%; height:auto;">
+
 <img src="{{'/assets/zh/makeine_vol8_close-reading/5.png' | relative_url}}"
     alt="5"
     style="display:block; margin:0 auto; max-width:80%; height:auto;">
-但在文艺部三人组不得不品的一通相声后，老马逐渐冷静了下来，并打算诱拐温水签下霸王条款——
+
+（虽然有点长，但我觉得文艺部相声是第八卷的灵魂，所以一刀不剪放上来了）
+
+在文艺部三人组不得不品的一通相声后，老马逐渐冷静了下来，并打算诱拐温水签下霸王条款——
+
 白玉莉子，那个女人出手了。
+
 <img src="{{'/assets/zh/makeine_vol8_close-reading/6.png' | relative_url}}"
     alt="6"
     style="display:block; margin:0 auto; max-width:80%; height:auto;">
+
 这里偏个题，聊聊本卷中的白玉莉子。正如白玉对温水的那句自我陈述一样，本卷中雨森赤裸裸地将“工具人”这一属性赋予了白玉，以至于白玉在八卷中的行动近乎于不可解。当然必须承认本卷并非白玉的主场，然而关键场合白玉的几次出场表现都显得相当零碎。或许雨森在本卷中想要用你败惯用的取巧手法塑造白玉——利用业已形成的共同记忆打底身躯，再用独创的角色内核点化灵魂。但遗憾的是，在“小恶魔学妹”这条赛道上，白玉要面对的最大对手是—— 一色彩羽
 
 前方可是地狱啊……
@@ -58,6 +70,7 @@ description:
 <img src="{{'/assets/zh/makeine_vol8_close-reading/8.png' | relative_url}}"
     alt="8"
     style="display:block; margin:0 auto; max-width:80%; height:auto;">
+    
 <img src="{{'/assets/zh/makeine_vol8_close-reading/9.png' | relative_url}}"
     alt="9"
     style="display:block; margin:0 auto; max-width:80%; height:auto;">
@@ -69,7 +82,9 @@ description:
     alt="10"
     style="display:block; margin:0 auto; max-width:80%; height:auto;">
 
-回旋镖*1。在樱井君身边，温水甚至懒得在心里嘴硬两句。在我们不知道的地方和樱井成了很好的哥们呢，温水。
+回旋镖*2。在樱井君身边，温水甚至懒得在心里嘴硬两句。当年文艺部也借用过家政教室，是哪位女生帮忙打点关系呢，好难猜啊.jpg
+
+在我们不知道的地方和樱井成了很好的哥们呢，温水。
 
 <img src="{{'/assets/zh/makeine_vol8_close-reading/11.png' | relative_url}}"
     alt="11"
@@ -77,20 +92,21 @@ description:
 
 来自八奈见担当的内心独白。
 
-温水和彦感到焦躁，尽管整体来看，他在8卷里玩得还蛮开心的。温水和彦一直以来都是一个认真的男人，尽管八奈带着他从封闭的天地中走出来，但他的心中仍然保留着认真对待人际关系的习惯。与之对应的，他意外地会想得很远。
+温水和彦感到焦躁，尽管整体来看，他在8卷里玩得还蛮开心的。温水和彦一直以来都是一个认真的男人，尽管八奈带着他从封闭的天地中走出来，但他的心中仍然保留着认真对待人际关系的习惯。与之对应的，他意外地会想得很远。青春期少年的心灵似乎很广阔，但是在那些欢乐的时光里，他很难真正去触及自己心中被反复咀嚼的广阔的想象。如果没有人推他一把，或许他永远不会站到台前。
 
 <img src="{{'/assets/zh/makeine_vol8_close-reading/12.png' | relative_url}}"
     alt="12"
     style="display:block; margin:0 auto; max-width:80%; height:auto;">
 
 雨森在这里第二次强调了：温水和彦是有退路的（第一次是天爱星拉人时的现状描述）。这是本卷“令人困惑的温水和彦”的钥匙之一。
+
 在提及天爱星的问题时，樱井君找了个托辞。作为最先发现天爱星的人，他到底在用这种托辞逃避些什么？如果代入樱井对会长的箭头（性质未知），那么这里的樱井似乎是在逃避“对天爱星投以特殊关注的自己”。
 
 <img src="{{'/assets/zh/makeine_vol8_close-reading/13.png' | relative_url}}"
     alt="13"
     style="display:block; margin:0 auto; max-width:80%; height:auto;">
 
-第二段说辞同理，但反之是在向温水掩饰”对会长投以特殊关注的自己“。无论如何，樱井与会长、樱井与学生会的故事都应当留待第九卷解决，且让我们拭目以待。
+第二段说辞同理，但反之是在向温水掩饰”对会长投以特殊关注的自己“。受限于第八卷的故事线进度，樱井与会长、樱井与学生会的故事都必须留待第九卷解决，且让我们拭目以待。
 
 <img src="{{'/assets/zh/makeine_vol8_close-reading/14.png' | relative_url}}"
     alt="14"
@@ -110,9 +126,11 @@ description:
 <img src="{{'/assets/zh/makeine_vol8_close-reading/16.png' | relative_url}}"
     alt="16"
     style="display:block; margin:0 auto; max-width:80%; height:auto;">
+
 <img src="{{'/assets/zh/makeine_vol8_close-reading/17.png' | relative_url}}"
     alt="17"
     style="display:block; margin:0 auto; max-width:80%; height:auto;">
+
 佳树使用了【新娘预备役】，效果拔群！
 
 说来之前佳树的进攻没有这么好的效果吧…？看上去相当遗憾的是，老马可能是来过温水家的所有女性中最接近正常女性的人，否则以某位暴食海獭的功力，这一波偷天换日大抵会直接被一手八氏正论给防得无影无踪（笑
@@ -121,13 +139,15 @@ description:
     alt="18"
     style="display:block; margin:0 auto; max-width:80%; height:auto;">
 
-荷尔蒙——或称“青春期的悸动”——发力了。
+荷尔蒙——或称“青春期的悸动”——发力了。老马的这波进攻其实有踩到点子上，毕竟少男如温水和彦，实在很难对同级女生不远万里来到家中认真做出的味增汤给出什么恶评。这碗味增汤很好地展现出了老马的角色特质，认真，决心，还有一点点无关痛痒的冒失，意外地还不错。
+
+而此时，拦路柠檬的到来有点打乱了温水和彦的节奏：
 
 <img src="{{'/assets/zh/makeine_vol8_close-reading/19.png' | relative_url}}"
     alt="19"
     style="display:block; margin:0 auto; max-width:80%; height:auto;">
 
-很难说柠檬到底是受了朝云还是老八的影响，或许是二者皆有吧，那没救了.jpg
+很难说柠檬这波神圣切割到底是受了朝云还是老八的影响，或许是二者皆有吧，那没救了.jpg
 
 <img src="{{'/assets/zh/makeine_vol8_close-reading/20.png' | relative_url}}"
     alt="20"
@@ -153,7 +173,7 @@ description:
     alt="22"
     style="display:block; margin:0 auto; max-width:80%; height:auto;">
 
-温水和小鞠的对话已经浑然天成了，这种一边思考话术一边告诉对方“我在思考话术”的路子，据我所知一般出现在底裤看穿的好兄弟之间。哈鞠米，崛起……
+温水和小鞠的对话已经浑然天成了，这种一边思考话术一边告诉对方“我在思考话术”的路子，据我所知一般出现在底裤看穿的好兄弟之间。哈鞠米，崛起…
 
 “仗着部长身份耍无赖”，指的大约是六七两卷借着部长的身份拉整个文艺部下水罢。
 
@@ -161,7 +181,9 @@ description:
     alt="23"
     style="display:block; margin:0 auto; max-width:80%; height:auto;">
 
-温水和彦并没有将小鞠话语里的重量太放在心上，只当是日复一日斗嘴的再演。虽然对于小鞠的罪恶感无处可去，但是天气很好，逃生梯的视野相当开阔。温水和彦从山间的绿色看见时间的流逝，因而不得不感到微微的焦躁。毫无疑问，此刻的温水和彦依然“无法相信当下的自己”。当下的自己无法正面小鞠的约定，也对自己的随波逐流毫无办法。
+温水和彦并没有将小鞠话语里的重量太放在心上，只当是日复一日斗嘴的再演。
+
+虽然对于小鞠的罪恶感无处可去，但是天气很好，逃生梯的视野相当开阔。温水和彦从山间的绿色看见时间的流逝，因而不得不感到微微的焦躁。毫无疑问，此刻的温水和彦依然“无法相信当下的自己”。当下的自己无法正面小鞠的约定，也对自己的随波逐流毫无办法。
 
 
 
@@ -203,7 +225,7 @@ description:
     alt="28"
     style="display:block; margin:0 auto; max-width:80%; height:auto;">
 
-嗯，是什么呢？
+嗯，是什么用意呢？
 
 关于志喜屋学姐的部分，我打算在重读第四卷之后再尝试给出详细解答，先挖个坑。
 
@@ -222,9 +244,11 @@ description:
 <img src="{{'/assets/zh/makeine_vol8_close-reading/30.png' | relative_url}}"
     alt="30"
     style="display:block; margin:0 auto; max-width:80%; height:auto;">
+
 <img src="{{'/assets/zh/makeine_vol8_close-reading/31.png' | relative_url}}"
     alt="31"
     style="display:block; margin:0 auto; max-width:80%; height:auto;">
+
 一气呵成，毫不拖泥带水。利用学习会将温水拉入自己熟悉场景的同时，还保持了主动权和一定程度的距离感。温水和彦是会随着流向行动的那一类男主角（流れていく），换句话说，只要你预先为其设好流向，那么他就会不由自主地向前行动。这种特质让我想起村上春树笔下的男主角们，但是在流向（流れ）面前，温水和彦并没有那么成熟。关于温水和村上的男主角们，我们将在下一次温水的青春期独白中更详细地展开。
 
 感觉这一套连招有点阴湿特攻，应该不是错觉……？
@@ -244,26 +268,28 @@ description:
 <img src="{{'/assets/zh/makeine_vol8_close-reading/33.png' | relative_url}}"
     alt="33"
     style="display:block; margin:0 auto; max-width:80%; height:auto;">
+
 <img src="{{'/assets/zh/makeine_vol8_close-reading/34.png' | relative_url}}"
     alt="34"
     style="display:block; margin:0 auto; max-width:80%; height:auto;">
-我已经懒得吐槽一言不发就完成杂志交接的这两人了……第一遍读的时候全程姨母笑没有停过。
+
+我已经懒得吐槽一言不发就完成杂志交接的这两人了……第一遍读的时候全程姨母笑没有停过。温水和彦的身体还是太诚实于本能了。
 
 <img src="{{'/assets/zh/makeine_vol8_close-reading/35.png' | relative_url}}"
     alt="35"
     style="display:block; margin:0 auto; max-width:80%; height:auto;">
 
-温水并没有忘记今天的活动是一个约会flag。在约会flag当场，被撞见和其他女生待在一起确实很麻烦。但是要知道，八奈见在推荐人一事上投的可是赞成票，那么温水是否选择用这个理由脱身呢？
+在给杂志翻页的同时，温水并没有忘记今天的活动是一个约会flag。在约会flag当场，被撞见和其他女生待在一起确实很麻烦。但是要知道，八奈见在推荐人一事上投的可是赞成票，那么温水是否选择用这个理由脱身呢？
 
 <img src="{{'/assets/zh/makeine_vol8_close-reading/36.png' | relative_url}}"
     alt="36"
     style="display:block; margin:0 auto; max-width:80%; height:auto;">
+
 <img src="{{'/assets/zh/makeine_vol8_close-reading/37.png' | relative_url}}"
     alt="37"
     style="display:block; margin:0 auto; max-width:80%; height:auto;">
+
 很显然他没有，而且再一次搬出了昨晚面对佳树时的蹩脚借口：绫野和樱井。只不过相较于信息派的佳树（太哈人了朝云千早温水佳树），八奈的直觉告诉她这里可以单刀直入。而事关温水来此的真实用意，不知出于什么原因，温水和彦没办法继续面不改色地对着八奈扯谎。
-
-
 
 好在这时，始作俑者白玉进场了。
 
@@ -276,10 +302,13 @@ description:
 <img src="{{'/assets/zh/makeine_vol8_close-reading/39.png' | relative_url}}"
     alt="39"
     style="display:block; margin:0 auto; max-width:80%; height:auto;">
+
 <img src="{{'/assets/zh/makeine_vol8_close-reading/40.png' | relative_url}}"
     alt="40"
     style="display:block; margin:0 auto; max-width:80%; height:auto;">
+
 原来如此，这就是成人世界.jpg
+
 
 即便没有亲自下场，佳树的大手还是通过白玉伸到了战场上。这里不得不引申出一个问题：为什么白玉要把八奈叫来？
 
@@ -289,9 +318,7 @@ description:
 
 就如同雨森利用群体印象塑造角色，白玉也在利用八奈深化自己的角色印象——只不过是对温水和彦。以八奈引入，以佳树推进，以小恶魔宣言收尾，我们的白玉学妹是否能在温水的心中留下些爪痕呢——
 
-不管有没有，我想温水和彦都要因此稍稍感到困扰。
-
-
+无论如何，我想温水和彦都要因此稍稍感到困扰。
 
 接下来老马入场，带着温水在家附近的小巷中穿梭。
 
@@ -312,6 +339,7 @@ description:
 <img src="{{'/assets/zh/makeine_vol8_close-reading/43.png' | relative_url}}"
     alt="43"
     style="display:block; margin:0 auto; max-width:80%; height:auto;">
+
 <img src="{{'/assets/zh/makeine_vol8_close-reading/44.png' | relative_url}}"
     alt="44"
     style="display:block; margin:0 auto; max-width:80%; height:auto;">
@@ -360,6 +388,7 @@ description:
 <img src="{{'/assets/zh/makeine_vol8_close-reading/49.png' | relative_url}}"
     alt="49"
     style="display:block; margin:0 auto; max-width:80%; height:auto;">
+
 <img src="{{'/assets/zh/makeine_vol8_close-reading/50.png' | relative_url}}"
     alt="50"
     style="display:block; margin:0 auto; max-width:80%; height:auto;">
@@ -373,7 +402,7 @@ description:
     alt="51"
     style="display:block; margin:0 auto; max-width:80%; height:auto;">
 
-当初的我和温水一样，还没有意识到这件事情的严重性。
+初见的我和温水一样，还没有意识到这件事情的严重性。
 
 <img src="{{'/assets/zh/makeine_vol8_close-reading/52.png' | relative_url}}"
     alt="52"
@@ -410,6 +439,7 @@ description:
 <img src="{{'/assets/zh/makeine_vol8_close-reading/56.png' | relative_url}}"
     alt="56"
     style="display:block; margin:0 auto; max-width:80%; height:auto;">
+    
 <img src="{{'/assets/zh/makeine_vol8_close-reading/57.png' | relative_url}}"
     alt="57"
     style="display:block; margin:0 auto; max-width:80%; height:auto;">
@@ -764,7 +794,10 @@ description:
     alt="94"
     style="display:block; margin:0 auto; max-width:80%; height:auto;">
 
-接下来就是这一段最令人忍俊不禁的地方了。这一段文字中最富有乐趣的地方在于——温水和彦是什么时候开始盯着八奈见看的？将视线从观鸟会女孩身上收回后，温水的耳朵还能听见天爱星不高兴的声音，脑子还能思考人不可貌相的观鸟会女孩，但在这些小小的感触中，我们唯独不知道温水君在看着哪里。
+
+接下来最令我忍俊不禁的一段。
+
+这一段文字中最富有乐趣的地方在于——温水和彦是什么时候开始盯着八奈见看的？将视线从观鸟会女孩身上收回后，温水的耳朵还能听见天爱星不高兴的声音，脑子还能思考人不可貌相的观鸟会女孩，但在这些小小的感触中，我们唯独不知道温水君在看着哪里。
 
 <img src="{{'/assets/zh/makeine_vol8_close-reading/95.png' | relative_url}}"
     alt="95"
@@ -922,7 +955,7 @@ description:
 
 
 
-遗憾的是，温水并没有反应过来。
+遗憾的是，尽管和小不点们相处融洽，但温水并没有反应过来。
 
 <img src="{{'/assets/zh/makeine_vol8_close-reading/112.png' | relative_url}}"
     alt="112"
@@ -1032,7 +1065,7 @@ description:
     alt="124"
     style="display:block; margin:0 auto; max-width:80%; height:auto;">
 
-你紫菜吧。。。
+你紫菜吧，温水和彦。。。
 
 
 
