@@ -1,7 +1,7 @@
 ---
 title: "[伪精读楼]轻小说的主人公们"
-date: 2026-01-24 07:30:00 +0900
-started at: 2025-6-20
+date: 2025-06-20 21:03:00 +0800
+last_modified_at: 2026-01-24 07:30:00 +0900
 categories: [close-reading, "轻小说的主人公们"]
 tags: [makeine, マケイン, makeine-vol8, Chinese]
 author: Kaze Lyuma
