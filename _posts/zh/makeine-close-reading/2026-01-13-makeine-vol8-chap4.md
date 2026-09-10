@@ -21,7 +21,7 @@ description:
     alt="391"
     style="display:block; margin:0 auto; max-width:80%; height:auto;">
 
-老派的伤春悲秋，最后的不在意却又微妙地显得年轻。有些挥霍无度。
+老派的伤春悲秋，最后的不在意却又微妙地显得年轻。少年过于慷慨地看着周围变化的人与事。
 
 <img src="{{'/assets/zh/makeine_vol8_close-reading/392.png' | relative_url}}"
     alt="392"
@@ -41,7 +41,9 @@ description:
     alt="394"
     style="display:block; margin:0 auto; max-width:80%; height:auto;">
 
-唉，丑态。好不容易在绫野面前用自己艰苦训练的成果得瑟一下，结果稍微一吃瘪马上逃回去找小八，我看温水你这辈子都别想挺直腰板吵架了（大笑）
+唉，丑态。
+
+好不容易在绫野面前用自己艰苦训练的成果得瑟一下，结果稍微一吃瘪马上逃回去找小八，我看温水你这辈子都别想挺直腰板吵架了（大笑）
 
 <img src="{{'/assets/zh/makeine_vol8_close-reading/395.png' | relative_url}}"
     alt="395"
@@ -67,7 +69,9 @@ description:
     alt="398"
     style="display:block; margin:0 auto; max-width:80%; height:auto;">
 
-锋芒毕露的阴阳怪气对攻，现在的日本男高好可怕……
+锋芒毕露的阴阳怪气对攻，现在的男高中生……（指指点点）
+
+
 
 
 
@@ -103,7 +107,9 @@ description:
     alt="403"
     style="display:block; margin:0 auto; max-width:80%; height:auto;">
 
-超冷漠。
+
+
+饲养员君超冷漠。
 
 <img src="{{'/assets/zh/makeine_vol8_close-reading/404.png' | relative_url}}"
     alt="404"
@@ -123,7 +129,7 @@ description:
 
 这就不奇怪了，这就不奇怪了（拍碗）
 
-在妹控温水这里——实妹到底算不算debuff呢……
+在妹控温水这里，实妹到底算不算debuff呢…
 
 
 
@@ -160,6 +166,10 @@ description:
     style="display:block; margin:0 auto; max-width:80%; height:auto;">
 
 我想八奈见会很喜欢有毅力的面包——希望它们确实美味。
+
+虽然从结果上看，温水君依然选择了相信赏味期限。
+
+
 
 <img src="{{'/assets/zh/makeine_vol8_close-reading/412.png' | relative_url}}"
     alt="412"
@@ -285,7 +295,9 @@ description:
     alt="429"
     style="display:block; margin:0 auto; max-width:80%; height:auto;">
 
-小鞠观猫，温水在后……
+小鞠观猫，温水在后。
+
+
 
 <img src="{{'/assets/zh/makeine_vol8_close-reading/430.png' | relative_url}}"
     alt="430"
@@ -297,7 +309,7 @@ description:
     alt="431"
     style="display:block; margin:0 auto; max-width:80%; height:auto;">
 
-场上的所有人都在仰望她，比起「立派だ」可能「偉い」更合适一点。
+场上的所有人都在仰望她，比起「立派」，可能「偉い」更合适一点。
 
 温水还是太温良了，换成是我的话多少会想上去一起揉揉小鞠。
 
@@ -317,7 +329,9 @@ description:
 
 我看温水是一边嫉妒一边咀嚼自己的嫉妒心，老吃家了。
 
-虽然尽力在心里摆出一副学长的姿态——不过温水你的心理年龄可能不比后辈们大吧？
+虽然尽力在心里摆出一副学长的姿态——不过温水你的心理年龄似乎并不比后辈们大。
+
+
 
 <img src="{{'/assets/zh/makeine_vol8_close-reading/434.png' | relative_url}}"
     alt="434"
@@ -391,7 +405,9 @@ description:
     alt="443"
     style="display:block; margin:0 auto; max-width:80%; height:auto;">
 
-不负责任地帮白玉敲定了公开（？）发表日程之后，不负责任地下定了展示帅气温水的决心，很有一贯性的决策风格……
+不负责任地帮白玉敲定了公开（？）发表日程之后，不负责任地下定了展示帅气温水的决心，很有一贯性的决策风格。
+
+
 
 <img src="{{'/assets/zh/makeine_vol8_close-reading/444.png' | relative_url}}"
     alt="444"
@@ -577,7 +593,7 @@ description:
 
 柠檬冲线、咖喱面包、白玉邀请三个桥段紧密相连；中间插入午休稍作整顿，接下来的小鞠戏份实际上与啦啦队桥段一体，无缝衔接白玉和田中老师的戏份后，走马观花的体育祭上半场宣告结束。而作为重要的蓄力阶段，保健室（帐篷）场景在保证基本祭典氛围的底线上，用温水和樱井间的对话与思考，完全松弛了上半场积累下来的热情。借物赛跑也因此得以从头开始积累情绪，顺利地在一切结束后，将文本（温水）的情绪置于一个预热完成的低位。非常漂亮的情绪流设计。
 
-值得一提的是，借物赛跑结束后的天爱星，情绪应该处于选举演讲之外的最高位。这里又是一次温天二人的情绪流错位，这里就不再赘述。
+值得一提的是，借物赛跑结束后的天爱星，情绪应该处于选举演讲之外的最高位。这里又是一次温天二人的情绪流错位，整体比较清晰，这里就不再赘述。
 
 不知道诸位朋友们有没有过在运动会结束的做些大事的计划。以我的经验来说，雨森所描述的运动会情绪流走向相当写实。
 
@@ -745,6 +761,8 @@ Position Zero.
 
 逢魔之时的夕照中，四败到此结束。来讨论责任归属吧。
 
+•
+
 先来谈谈温水和彦吧。
 
 就像之前的所有场景一样，在最后的告白场景中，温水和彦也一直试图为身处天爱星舞台中的自己构建“不在场证明”。在告白开始前，富于异质感的温水心理活动出现了数次，这里不再赘述。与之前稍有不同的是，在天爱星的努力和游园祭魔法的加持下，这次温水切实地站上了天爱星精心准备的舞台。如果剧本完备，那么这里理应不会有任何意外。
@@ -810,3 +828,8 @@ Position Zero.
 四败到此结束，而本楼最开始的idea也终于完整地呈现给了所有看到这里的朋友们，希望能给到大家一些新的想法。
 
 接下来是不能更重要的尾声，期待与朋友们的再次相见。
+
+
+
+
+

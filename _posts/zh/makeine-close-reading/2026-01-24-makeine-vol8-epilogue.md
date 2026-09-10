@@ -33,13 +33,13 @@ description:
 
 莫名地好怀念。温水好久没回文艺部了。
 
-虽然很自然地把一旁担心的小鞠当作空气了。
+虽然很自然地把一旁担心的小鞠当成了空气。
 
 <img src="{{'/assets/zh/makeine_vol8_close-reading/492.png' | relative_url}}"
     alt="492"
     style="display:block; margin:0 auto; max-width:80%; height:auto;">
 
-我没什么好说的，温水你还是趁早去死一死比较好。没有什么借口。
+我没什么好说的，温水你还是趁早去死一死比较好。没什么借口。
 
 <img src="{{'/assets/zh/makeine_vol8_close-reading/493.png' | relative_url}}"
     alt="493"
@@ -148,6 +148,8 @@ description:
 我不是很想评价柠檬的决策。嘛，柠檬很强，所以田径一定不会只是苦涩的回忆吧。
 
 
+
+·
 
 [1] sgtwang. 聚光灯的举灯人[EB/OL]. 百度贴吧, 2024-07-22[2026-1-23]. https://tieba.baidu.com/p/9098919673?share=9105&fr=sharewise&see_lz=0&share_from=post&sfc=copy&client_type=2&client_version=12.84.1.1&st=1769155480&is_video=false&unique=9CE831858F332666D855911207B02419
 
@@ -343,7 +345,9 @@ description:
 
 相较于八奈见以往的部刊，这次的A子同学显得弱势了许多。以往的A子同学总是洋洋自得地享受并吐槽不懂女人心的xx君，而这一次，谈到招牌上的浣熊时，反而是xx君给出了正确答案。不知道是不是尚未褪去的睡意作祟，A子比以往任何时候妥协得都要更多。只有在最后，宣言「他还是个孩子」的时候，A子才稍微强撑着找回来一点主导权。
 
-而如果最后一页从「吃完咖喱面包」开始，那么将它移到最前，小说的最后就变成
+而如果最后一页从「吃完咖喱面包」开始，那么将它移到最前，小说的最后就变成:
+
+
 
 <img src="{{'/assets/zh/makeine_vol8_close-reading/531.png' | relative_url}}"
     alt="531"
@@ -364,3 +368,6 @@ description:
 我很久没有写过这么长的表达性文字了，开始时难免会有些生疏。后来进入状态，但由于我的储备不足，重复的表达模式也多有出现，就当是个人特征吧。本楼总计4万1千字，写完花了我不少时间，总归也还是有点收获。
 
 让我们在8.5卷再会吧。
+
+
+
