@@ -2,8 +2,8 @@
 title: "[伪精读楼]轻小说的主人公们"
 date: 2026-01-24 07:30:00 +0900
 started at: 2025-6-20
-categories: [close-reading, Chinese]
-tags: [makeine, マケイン]
+categories: [close-reading, "轻小说的主人公们"]
+tags: [makeine, マケイン, makeine-vol8, Chinese]
 author: Kaze Lyuma
 published: true
 description: 
@@ -24,8 +24,9 @@ description:
     style="display:block; margin:0 auto; max-width:80%; height:auto;">
 面对犹豫不决的温水，小鞠使用了迎头痛击！
 小鞠，你干得好啊.jpg
-不得不承认，初见第八卷我就被小鞠的这两下笑到了。相信每一个看过动画的粉丝都对第八集你八踢温水的那两下印象深刻[笑]经过五卷的成长，小鞠终于也是走到了这个位置[舌头]
-~第一败~
+不得不承认，初见第八卷我就被小鞠的这两下笑到了。相信每一个看过动画的粉丝都对第八集你八踢温水的那两下印象深刻(笑)经过五卷的成长，小鞠终于也是走到了这个位置（笑）
+
+## ～第一败～
 
 <img src="{{'/assets/zh/makeine_vol8_close-reading/3.png' | relative_url}}"
     alt="3"
@@ -384,7 +385,7 @@ description:
     alt="53"
     style="display:block; margin:0 auto; max-width:80%; height:auto;">
 
-笑*5 全对！
+（爆笑） 全对！
 
 
 
@@ -511,7 +512,7 @@ description:
 
 手，还牵着呢（回旋镖*4）
 
-笑*5
+（爆笑）
 
 作为本卷指定工具人，白玉向温水传递了一个重要信息：八奈见当上了樱井的推荐人。
 
@@ -769,7 +770,7 @@ description:
     alt="95"
     style="display:block; margin:0 auto; max-width:80%; height:auto;">
 
-现在知道了（笑*5
+现在知道了（笑
 
 第一次看这段的时候我正在食堂吃饭，尽己所能克制住自己扭成蛆，脸上挂着诡异的笑容。如果周围的同志们有心的话，或许我已经被挂上某社交平台了罢（笑）。
 
@@ -965,7 +966,7 @@ description:
     alt="116"
     style="display:block; margin:0 auto; max-width:80%; height:auto;">
 
-笑*3
+（爆笑）
 
 小鞠从八奈那里学来教训温水，所以小鞠温水八奈三个人也是共轭亲子吗，好像发现了什么新大陆……你们三个人一定要幸福啊（迫真
 
@@ -975,7 +976,7 @@ description:
     alt="117"
     style="display:block; margin:0 auto; max-width:80%; height:auto;">
 
-笑*5
+（爆笑）
 
 
 
@@ -1563,7 +1564,7 @@ description:
     alt="187"
     style="display:block; margin:0 auto; max-width:80%; height:auto;">
 
-笑*5
+（爆笑）
 
 就算紧张到说不出话还是要疯狂的表示同意吗，哈鞠米，你这家伙……
 
@@ -1717,7 +1718,7 @@ description:
     alt="207"
     style="display:block; margin:0 auto; max-width:80%; height:auto;">
 
-好了，现在可以笑了（笑*5）
+好了，现在可以笑了（爆笑）
 
 死去的记忆开始攻击八奈见，和温水一样，八奈很明白什么是“失去”的感觉。为了便于理解，我们不妨看看6卷中的相似情节：
 
@@ -2106,7 +2107,7 @@ description:
     alt="256"
     style="display:block; margin:0 auto; max-width:80%; height:auto;">
 
-なんでそんなに慣れてんだよっ！笑*3
+なんでそんなに慣れてんだよっ！（笑
 
 只在自己的常识范围内足够细腻，你就是这种地方啊，温水同学。
 
@@ -2692,7 +2693,7 @@ description:
     alt="331"
     style="display:block; margin:0 auto; max-width:80%; height:auto;">
 
-“我也有经验”笑*5
+“我也有经验”
 
 温水君还是太信任八奈了（笑）
 
@@ -2824,7 +2825,7 @@ description:
     alt="349"
     style="display:block; margin:0 auto; max-width:80%; height:auto;">
 
-笑*3
+（爆笑）
 
 <img src="{{'/assets/zh/makeine_vol8_close-reading/350.png' | relative_url}}"
     alt="350"
@@ -2842,7 +2843,7 @@ description:
     alt="352"
     style="display:block; margin:0 auto; max-width:80%; height:auto;">
 
-笑*5
+（爆笑）
 
 <img src="{{'/assets/zh/makeine_vol8_close-reading/353.png' | relative_url}}"
     alt="353"
@@ -2860,7 +2861,7 @@ description:
     alt="355"
     style="display:block; margin:0 auto; max-width:80%; height:auto;">
 
-笑*5
+（爆笑）
 
 <img src="{{'/assets/zh/makeine_vol8_close-reading/356.png' | relative_url}}"
     alt="356"
@@ -3222,7 +3223,7 @@ description:
     alt="405"
     style="display:block; margin:0 auto; max-width:80%; height:auto;">
 
-笑*3
+（笑）
 
 <img src="{{'/assets/zh/makeine_vol8_close-reading/406.png' | relative_url}}"
     alt="406"
@@ -3350,7 +3351,7 @@ description:
     alt="423"
     style="display:block; margin:0 auto; max-width:80%; height:auto;">
 
-笑*5
+（爆笑）
 
 继没用的父亲之后选择求助圆润（划掉）有力的母亲吗，看来小鞠确实已经失去了所有的力气与手段（笑）
 
@@ -3438,13 +3439,13 @@ description:
     alt="435"
     style="display:block; margin:0 auto; max-width:80%; height:auto;">
 
-哦对的对的对的 笑*3 你看背德感这不就来了吗（笑）
+哦对的对的对的 你看背德感这不就来了吗（笑）
 
 <img src="{{'/assets/zh/makeine_vol8_close-reading/436.png' | relative_url}}"
     alt="436"
     style="display:block; margin:0 auto; max-width:80%; height:auto;">
 
-笑*5
+（爆笑）
 
 <img src="{{'/assets/zh/makeine_vol8_close-reading/437.png' | relative_url}}"
     alt="437"
@@ -4276,7 +4277,7 @@ Position Zero.
 
 我很久没有写过这么长的表达性文字了，开始时难免会有些生疏。后来进入状态，但由于我的储备不足，重复的表达模式也多有出现，就当是个人特征吧。本楼总计4万1千字，写完花了我不少时间，总归也还是有点收获。
 
-现在的吧里已经满是8.5卷的讨论了，就让我们在8.5卷的讨论区再会吧。
+让我们在8.5卷再会吧。
 
 
 
