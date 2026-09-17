@@ -4,3 +4,8 @@ _site/
 .bundle/
 archive/
 _style-backup/
+.codex/
+.claudian/
+.obsidian/
+.agents/
+.opencode/
