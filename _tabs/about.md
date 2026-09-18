@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-Hi there! I'm Kaze Lyuma, an undergraduate student at Tsinghua University, majoring in Mechanics. I'm about to enroll in the School of Aerospace Engineering, Tsinghua University.
+Hi there! I'm Kaze Lyuma, an undergraduate student at Tsinghua University, majoring in Mechanics. I'm about to enroll at the School of Aerospace Engineering, Tsinghua University as a graduate student.
 
 ## About this site
 This site is built for practicing my expression in both English and Chinese. I'll be glad if any of the posts help you or give you a different perspective.
