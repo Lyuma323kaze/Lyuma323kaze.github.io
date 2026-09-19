@@ -2,7 +2,7 @@
 title: 轻小说的主人公们 ～尾声～
 date: 2026-01-24 04:03 +0800
 last_modified_at: 2026-01-24 04:13 +0800
-categories: [close-reading, "轻小说的主人公们", 第四败]
+categories: [close-reading, "轻小说的主人公们", 尾声]
 tags: [makeine, マケイン, makeine-vol8, Chinese]
 author: Kaze Lyuma
 
